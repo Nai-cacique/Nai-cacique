@@ -2,17 +2,14 @@
 
 <h1 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Olá ,eu sou Naiara Cacique! 
+Olá ,eu sou Naiara Cacique! <img src='https://github.com/Nai-cacique/Nai-cacique/blob/main/icons8-connect-develop-48.png'width="50">
 </h1>
 
-
-
- <img align= "center" alt="Nai-conected" height="50" width="50" src="https://github.com/Nai-cacique/Nai-cacique/blob/main/icons8-connect-develop-48.png">
-<div align="center">
- <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nai-Cacique&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nai-Cacique&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nai-cacique&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nai-cacique&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
+<div style="display: inline_block"><br>
+
   
  
 </div>
