@@ -1,5 +1,4 @@
 
-
 <h1 align="center">
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 Olá ,eu sou Naiara Cacique! 
@@ -36,5 +35,4 @@ CONTATOS :
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Nai-cacique/count.svg" /></p>
 
 ![ Animação de cobra ](https://github.com/Nai-cacique/Nai-cacique/blob/output/github-contribution-grid-snake.svg)
-
 
