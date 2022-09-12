@@ -22,7 +22,7 @@ Olá ,eu sou Naiara Cacique! <img src='https://github.com/Nai-cacique/Nai-caciqu
 </div>
 </div>
 <div align="center"><br>
-<img align="center" alt="Rafa-Python" height="50" width="50" src="https://github.com/Nai-cacique/Nai-cacique/blob/main/icons8-bate-papo-16.png"> CONTATOS:
+<img align="center" alt="Python" height="50" width="50" src="https://github.com/Nai-cacique/Nai-cacique/blob/main/icons8-bate-papo-16.png"> CONTATOS:
 <div align="center""><br>
 <a href = "mailto:naiaracacique@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
 <a href="https://www.linkedin.com/in/naiara-lana-cacique-277a3624a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
