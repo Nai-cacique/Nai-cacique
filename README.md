@@ -5,10 +5,15 @@ Olá ,eu sou Naiara Cacique!
   <img src='https://github.com/Nai-cacique/Nai-cacique/blob/main/icons8-connect-develop-48.png'width="28">
 </h1>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nai-cacique&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nai-cacique&layout=compact&langs_count=7&theme=synthwave"/>
+<div>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nai-cacique&theme=github_dark"/>
+<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nai-cacique=github_dark"/> -->
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nai-cacique&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nai-cacique&theme=github_dark"/>
 </div>
 
+
+-----
 
 <div style="display: inline_block"><br>
 
