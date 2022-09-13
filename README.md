@@ -6,8 +6,7 @@
 Olá,eu sou Naiara Cacique! 
   <img src='https://github.com/Nai-cacique/Nai-cacique/blob/main/icons8-connect-develop-48.png'width="28">
 </h1>
------
------
+
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nai-cacique&theme=github_dark"/>
 <!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nai-cacique&theme=github_dark"/> -->
